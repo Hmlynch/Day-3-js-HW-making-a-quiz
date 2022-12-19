@@ -1,0 +1,27 @@
+* {
+    align-items: cetner;
+    justify-content: center;
+    margin: 20px 100px;
+}
+
+body {
+    font-family: "Montserrat", sans-serif;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+input{
+    margin-top: 20px;
+}
+
+.box {
+    padding: 40px;
+    width: 500px;
+    border-radius: 10px;
+    box-shadow: -1px 8px 15px 0px rgba(0,0,0,0.5);
+}
+
+
+
